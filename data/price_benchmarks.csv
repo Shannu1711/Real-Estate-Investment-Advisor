@@ -1,0 +1,127 @@
+State,City,Property_Type,Benchmark_Price_per_SqFt
+Andhra Pradesh,Vijayawada,Apartment,9051.91
+Andhra Pradesh,Vijayawada,Independent House,9153.46
+Andhra Pradesh,Vijayawada,Villa,9277.635
+Andhra Pradesh,Vishakhapatnam,Apartment,9335.445
+Andhra Pradesh,Vishakhapatnam,Independent House,9469.2
+Andhra Pradesh,Vishakhapatnam,Villa,9098.81
+Assam,Guwahati,Apartment,9476.45
+Assam,Guwahati,Independent House,9323.435
+Assam,Guwahati,Villa,8955.27
+Assam,Silchar,Apartment,9176.0
+Assam,Silchar,Independent House,9154.564999999999
+Assam,Silchar,Villa,9328.19
+Bihar,Gaya,Apartment,9177.605
+Bihar,Gaya,Independent House,9167.29
+Bihar,Gaya,Villa,9283.48
+Bihar,Patna,Apartment,9518.01
+Bihar,Patna,Independent House,8900.06
+Bihar,Patna,Villa,9217.1
+Chhattisgarh,Bilaspur,Apartment,9362.330000000002
+Chhattisgarh,Bilaspur,Independent House,9312.27
+Chhattisgarh,Bilaspur,Villa,8872.75
+Chhattisgarh,Raipur,Apartment,9193.035
+Chhattisgarh,Raipur,Independent House,9262.235
+Chhattisgarh,Raipur,Villa,9169.715
+Delhi,Dwarka,Apartment,9289.055
+Delhi,Dwarka,Independent House,9347.779999999999
+Delhi,Dwarka,Villa,9188.64
+Delhi,New Delhi,Apartment,9056.36
+Delhi,New Delhi,Independent House,9209.02
+Delhi,New Delhi,Villa,9046.31
+Gujarat,Ahmedabad,Apartment,9220.474999999999
+Gujarat,Ahmedabad,Independent House,9124.24
+Gujarat,Ahmedabad,Villa,9143.25
+Gujarat,Surat,Apartment,9397.54
+Gujarat,Surat,Independent House,9696.91
+Gujarat,Surat,Villa,9317.974999999999
+Haryana,Faridabad,Apartment,8999.13
+Haryana,Faridabad,Independent House,9376.21
+Haryana,Faridabad,Villa,8957.7
+Haryana,Gurgaon,Apartment,9451.83
+Haryana,Gurgaon,Independent House,9236.369999999999
+Haryana,Gurgaon,Villa,8991.994999999999
+Jharkhand,Jamshedpur,Apartment,9110.585
+Jharkhand,Jamshedpur,Independent House,9290.775000000001
+Jharkhand,Jamshedpur,Villa,8638.994999999999
+Jharkhand,Ranchi,Apartment,9504.06
+Jharkhand,Ranchi,Independent House,9134.505000000001
+Jharkhand,Ranchi,Villa,9752.115
+Karnataka,Bangalore,Apartment,9536.335
+Karnataka,Bangalore,Independent House,9601.12
+Karnataka,Bangalore,Villa,8849.795
+Karnataka,Mangalore,Apartment,9892.939999999999
+Karnataka,Mangalore,Independent House,9669.5
+Karnataka,Mangalore,Villa,9021.66
+Karnataka,Mysore,Apartment,9079.744999999999
+Karnataka,Mysore,Independent House,9810.52
+Karnataka,Mysore,Villa,9116.35
+Kerala,Kochi,Apartment,9187.855
+Kerala,Kochi,Independent House,9358.47
+Kerala,Kochi,Villa,9015.515
+Kerala,Trivandrum,Apartment,9431.775000000001
+Kerala,Trivandrum,Independent House,9348.315
+Kerala,Trivandrum,Villa,8726.15
+Madhya Pradesh,Bhopal,Apartment,9403.13
+Madhya Pradesh,Bhopal,Independent House,9170.45
+Madhya Pradesh,Bhopal,Villa,9009.335
+Madhya Pradesh,Indore,Apartment,9183.8
+Madhya Pradesh,Indore,Independent House,9234.505000000001
+Madhya Pradesh,Indore,Villa,9070.07
+Maharashtra,Mumbai,Apartment,9693.02
+Maharashtra,Mumbai,Independent House,9101.86
+Maharashtra,Mumbai,Villa,9133.825
+Maharashtra,Nagpur,Apartment,9392.54
+Maharashtra,Nagpur,Independent House,9492.61
+Maharashtra,Nagpur,Villa,8966.145
+Maharashtra,Pune,Apartment,9465.51
+Maharashtra,Pune,Independent House,9786.49
+Maharashtra,Pune,Villa,9223.47
+Odisha,Bhubaneswar,Apartment,9044.97
+Odisha,Bhubaneswar,Independent House,9391.59
+Odisha,Bhubaneswar,Villa,9281.31
+Odisha,Cuttack,Apartment,9237.45
+Odisha,Cuttack,Independent House,9240.53
+Odisha,Cuttack,Villa,9116.98
+Punjab,Amritsar,Apartment,9123.35
+Punjab,Amritsar,Independent House,9265.8
+Punjab,Amritsar,Villa,9129.765
+Punjab,Ludhiana,Apartment,8933.02
+Punjab,Ludhiana,Independent House,9340.495
+Punjab,Ludhiana,Villa,9437.59
+Rajasthan,Jaipur,Apartment,8902.74
+Rajasthan,Jaipur,Independent House,8917.865
+Rajasthan,Jaipur,Villa,9160.84
+Rajasthan,Jodhpur,Apartment,9192.19
+Rajasthan,Jodhpur,Independent House,9334.13
+Rajasthan,Jodhpur,Villa,9496.45
+Tamil Nadu,Chennai,Apartment,9420.79
+Tamil Nadu,Chennai,Independent House,9798.82
+Tamil Nadu,Chennai,Villa,9403.875
+Tamil Nadu,Coimbatore,Apartment,9433.92
+Tamil Nadu,Coimbatore,Independent House,9371.41
+Tamil Nadu,Coimbatore,Villa,8884.475
+Telangana,Hyderabad,Apartment,9208.9
+Telangana,Hyderabad,Independent House,9014.305
+Telangana,Hyderabad,Villa,9496.295
+Telangana,Warangal,Apartment,9050.355
+Telangana,Warangal,Independent House,9293.67
+Telangana,Warangal,Villa,9385.09
+Uttar Pradesh,Lucknow,Apartment,9268.03
+Uttar Pradesh,Lucknow,Independent House,9565.33
+Uttar Pradesh,Lucknow,Villa,9232.74
+Uttar Pradesh,Noida,Apartment,9457.39
+Uttar Pradesh,Noida,Independent House,9295.23
+Uttar Pradesh,Noida,Villa,9223.69
+Uttarakhand,Dehradun,Apartment,9126.685
+Uttarakhand,Dehradun,Independent House,9297.32
+Uttarakhand,Dehradun,Villa,9495.404999999999
+Uttarakhand,Haridwar,Apartment,9033.775
+Uttarakhand,Haridwar,Independent House,9061.02
+Uttarakhand,Haridwar,Villa,9113.19
+West Bengal,Durgapur,Apartment,8865.599999999999
+West Bengal,Durgapur,Independent House,9136.73
+West Bengal,Durgapur,Villa,9181.385
+West Bengal,Kolkata,Apartment,9365.645
+West Bengal,Kolkata,Independent House,9531.095
+West Bengal,Kolkata,Villa,8807.650000000001

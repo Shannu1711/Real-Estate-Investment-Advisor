@@ -1,0 +1,15 @@
+{
+  "classification": {
+    "Model": "Logistic regression",
+    "Accuracy": 0.9914666666666667,
+    "Precision": 0.9910624035750386,
+    "Recall": 0.991906714232469,
+    "F1": 0.991484379158018
+  },
+  "regression": {
+    "Model": "Linear regression",
+    "MAE_Lakhs": 0.0004633326466385834,
+    "RMSE_Lakhs": 0.0005726677132121324,
+    "R2": 0.9999999999924285
+  }
+}
