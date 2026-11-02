@@ -6,9 +6,9 @@ property-price projections.
 
 # Real Estate Investment Advisor
 
-🌐 **Live App:** [Open the app](YOUR_STREAMLIT_APP_URL)
+🌐 **Live App:** [Open the app](https://estatescope-real-estate-advisor.streamlit.app/)
 
-💻 **GitHub Repository:** [View the code](YOUR_GITHUB_REPOSITORY_URL)
+💻 **GitHub Repository:** [View the code](https://github.com/Shannu1711/Real-Estate-Investment-Advisor)
 
 ## Project objectives
 
