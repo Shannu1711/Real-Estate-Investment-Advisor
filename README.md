@@ -4,7 +4,6 @@ A Python and Streamlit project for exploring property listings,
 classifying relative affordability, and demonstrating five-year
 property-price projections.
 
-# Real Estate Investment Advisor
 
 🌐 **Live App:** [Open the app](https://estatescope-real-estate-advisor.streamlit.app/)
 
